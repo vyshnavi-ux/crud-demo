@@ -1,0 +1,22 @@
+.dialog-container {
+    mat-form-field {
+        width: 100%;
+    }
+
+    .content-section {
+        padding-top: 25px;
+    }
+
+   
+
+    .example-radio-group {
+        display: flex;
+        flex-direction: column;
+        margin: 15px 0;
+        align-items: flex-start;
+    }
+
+    .example-radio-button {
+        margin: 5px;
+    }
+}

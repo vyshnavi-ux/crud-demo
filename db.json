@@ -1,0 +1,32 @@
+{
+  "productList": [
+    {
+      "productName": "test",
+      "category": "CoolDrinks",
+      "freshness": "Brand New",
+      "price": 123,
+      "comments": "rt",
+      "date": "2023-04-02T18:30:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "hj",
+      "category": "CoolDrinks",
+      "freshness": "Brand New",
+      "price": 90,
+      "comments": "yt",
+      "date": "2023-04-23T18:30:00.000Z",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
